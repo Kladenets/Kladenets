@@ -5,6 +5,8 @@ Building intuitive and performant UIs with React, Next.js & TypeScript. Fascinat
 
 Interests beyond the IDE:
 * 🐾 My hound, Reishi
+* 🏃 Running, walking with Reishi
+* 🎾 Tennis
 * 🎲 Video & Board Games
 * 🧱 LEGOs (for life!)
 * 🌌 Star Wars (Andor S2 waiting room)
