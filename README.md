@@ -12,7 +12,7 @@ Interests beyond the IDE:
 * 🌌 Star Wars (Andor S2 waiting room)
 
 Let's connect:
-<a href="tbd">Personal Site</a> &nbsp;&nbsp;//&nbsp;&nbsp; <a href="https://www.linkedin.com/in/kylekentpa/">LinkedIn</a> &nbsp;&nbsp;//&nbsp;&nbsp; <a href="https://registry.jsonresume.org/Kladenets/">Resume</a> 
+<a href="https://kladenets.github.io/portfolio/">Personal Site</a> &nbsp;&nbsp;//&nbsp;&nbsp; <a href="https://www.linkedin.com/in/kylekentpa/">LinkedIn</a> &nbsp;&nbsp;//&nbsp;&nbsp; <a href="https://registry.jsonresume.org/Kladenets/">Resume</a> 
 
 <!---
 Kladenets/Kladenets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
